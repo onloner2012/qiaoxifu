@@ -1,0 +1,111 @@
+@charset "gb2312";
+/**
+*   Made by QQ 83452600
+*   版本：1.0.0
+*   2012.12.21
+**/
+
+html, body, div, p, ul,ol, li, dl, dt, dd, h1, h2, h3, h4, h5, h6, form, input, select, button, textarea, iframe, frameset, table, th, tr, td, fieldset {margin:0; padding:0;}
+
+/* IE5.xIE6бbug */ 
+* html body{overflow: disable;} 
+* html iframe, * html frame{overflow: auto;} 
+* html frameset{overflow: hidden;} 
+
+/* body */
+body{font-family:microsoft yahei;background: transparent;} 
+i, em, cite { font-style: normal; }
+
+/* div */
+div { display:block; vertical-align:baseline;}
+
+/* a */ 
+a, a:link { color:#FFF; text-decoration: none; }
+a:visited { }
+a:active, a:hover { text-decoration: none; color:#F00; }
+a:focus { outline: none; }
+
+/* form */ 
+textarea,input{ word-wrap:break-word;word-break:break-all;} 
+input {vertical-align:middle;font-size:12px}
+
+/* li */ 
+ul,li{list-style-type:none;} 
+
+/* img */ 
+img{float:left;padding-left:55px;}
+.logoPadding{padding-left:20px;}
+/* h */
+h1{font-size:38px}
+h3{font-size:14px;padding-left:65px;}
+
+/* mouse */ 
+.pointer{cursor:pointer;} 
+
+/* text */ 
+.t_l{text-align:left;} 
+.t_c{text-align:center;} 
+.t_r{text-align:right;} 
+.t_i { text-indent:25px;}
+
+/* auto */ 
+.break{word-break:break-all;word-wrap:break-word;} 
+.no_break{word-break:keep-all;word-wrap:normal;} 
+
+/* float */ 
+.fl, .fr { display: inline; float: left; }
+.fr { float: right; }
+
+/* unline */ 
+.text_un{text-decoration:underline;} 
+.text_no{text-decoration:none;} 
+/* hidden */ 
+.o_hidden{overflow:hidden;} 
+
+/* dis_no */ 
+.none{display:none;} 
+.block {display:block;} 
+
+/* border */ 
+.b_no{border:none;}
+.b_no_l{border-left:none;}
+.b_no_r{border-right:none;}
+.b_no_t{border-top:none;}
+.b_no_b{border-bottom:none;}
+
+/* margin */
+.m10 { margin:10px;}
+.m20 { margin:20px;}
+.ml10 { margin-left:10px;}
+.mb10 { margin-bottom:10px;}
+.mr10 { margin-right:10px;}
+.mt10 { margin-top:10px;}
+.mt20 { margin-top:20px;}
+.mt30 { margin-top:30px;}
+.h6 { clear:both; height:6px; line-height:0;}
+/* padding */ 
+.p_t10{ padding-top:10px;}
+.p_t20{ padding-top:20px;}
+.p_r10{ padding-right:10px;}
+.pad10 { padding:10px;}
+
+/* padding */ 
+.height_10{ height:10px; display:block; clear:both; overflow:hidden;}
+.height_20{ height:20px; display:block; clear:both; overflow:hidden;}
+
+/*********闭合盒子处理**********/
+.clearfix:after {content:"24dq"; display:block; height:0; clear:both; visibility:hidden;}
+.clearfix {display:inline-block;}
+/* Hides from IE-mac \*/
+* html .clearfix {height:1%;}.clearfix {display:block;}
+/* End hide from IE-mac */
+
+/*********清除浮动处理**********/
+.clearboth { clear:both; display:block; height:0;font-size:0; overflow:hidden;}
+
+/*color*/
+.gray_background{ background-color:#F8F8F8;}
+.blue_background{ background-color:#ECF1F4;}
+.green_color{ color:#67920D;}
+.white_color{ color:#fff;}
+.black_color{ color:#000;}

@@ -1,0 +1,65 @@
+/*----------关于我们----------*/
+.conbox1_wrap{ height:176px; width:100%; background:#efefef; border-top:4px solid #29b9e7;}
+.conbox1{width:983px; margin:0 auto; padding:18px 0 0 0;}
+.conboxp1{ font-size:24px; color:#333333; line-height:60px;}
+.conboxp1 span{ color:#2ab9e7;}
+.conboxp2{ font-size:16px; color:#666666; line-height:36px;}
+
+.conbox2{ height:458px; width:985px; margin:0 auto;}
+.conbox2_t{ padding:29px 0 0 0;}
+.conbox2_t ul li{ height:109px; width:164px; float:left; line-height:109px; text-align:center; font-size:18px; color:#fff;}
+.conbox2_t ul .li2{ background:#2ab9e7; position:relative;}
+.lansanjiao{ height:16px; width:8px; background: url(../img/lansanjiao.png) no-repeat center; position:absolute; left:-8px; top:47px; }
+
+.conbox2_b{}
+
+
+.conbox3_wrap{ height:208px; width:100%; background:#efefef;}
+.conbox3{ width:999px; margin:0 auto;}
+.conbox3 img{ margin:33px 8px 0 8px;}
+
+.conbox4{ height:322px; width:983px; margin:0 auto;}
+
+.conbox4_l{ float:left; padding:52px 0 0 0; width:575px;}
+.conbox4_l h2{ font-size:24px; color:#333; font-weight:normal; line-height:76px;}
+.conbox4_l h2 span{ color:#2ab9e7;}
+.conbox4_l ul li{ width:360px; font-size:18px; color:#666; line-height:28px; margin:0 0 8px 0;}
+.conbox4_l ul li img{ margin:0 8px -8px 0;}
+
+
+.conbox4_r{ float:left; padding:62px 0 0 0;}
+.conbox4_r p{ font-size:18px; color:#666; line-height:52px;}
+.conbox4_r img{}
+
+
+/*----------服务范围----------*/
+.con2box1_wrap{ border-top:4px solid #29b9e7; width:100%;}
+
+.con2box1{ width:980px; margin:0 auto;}
+.c2b1_p1{ font-size:24px; color:#333; line-height:55px;}
+.c2b1_p1 span{ color:#2ab9e7;}
+.m_l{ margin-left:-12px;}
+.c2b1_p2{ font-size:24px; color:#666; }
+.c2b1_p3{ font-size:18px; color:#666; line-height:54px;}
+
+.con2box1 img{ margin:32px 0 21px 0;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
