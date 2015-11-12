@@ -25,13 +25,14 @@
 .conbox4_l h2{ font-size:24px; color:#333; font-weight:normal; line-height:76px;}
 .conbox4_l h2 span{ color:#2ab9e7;}
 .conbox4_l ul li{ width:360px; font-size:18px; color:#666; line-height:28px; margin:0 0 8px 0;}
-.conbox4_l ul li img{ margin:0 8px -8px 0;}
+.conbox4_l ul li img{ margin:0 8px -8px 0;padding-left:0px;}
 
 
 .conbox4_r{ float:left; padding:62px 0 0 0;}
 .conbox4_r p{ font-size:18px; color:#666; line-height:52px;}
 .conbox4_r img{padding-left:0px;}
 
+.footer2{ height:106px; width:100%; background:#29b9e7;}
 
 /*----------服务范围----------*/
 .con2box1_wrap{ border-top:4px solid #29b9e7; width:100%;}
