@@ -1,5 +1,5 @@
 /*----------关于我们----------*/
-.conbox1_wrap{ height:176px; width:100%; background:#efefef; border-top:0px solid #29b9e7;}
+.conbox1_wrap{ height:auto; width:100%; background:#efefef; border-top:0px solid #29b9e7;}
 .conbox1{width:983px; margin:0 auto; padding:18px 0 0 0;}
 .conboxp1{ font-size:24px; color:#333333; line-height:60px;}
 .conboxp1 span{ color:#2ab9e7;}
