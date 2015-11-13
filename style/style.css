@@ -98,4 +98,4 @@
 
 /* sequence */
 #sequence {width:1000px;height:auto;}
-#sequence img {float:left;padding-left:92px;height:auto;width:1168px;}
+#sequence img {float:left;padding-left:92px;padding-right:92px;height:auto;width:1168px;}
