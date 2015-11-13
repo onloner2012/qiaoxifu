@@ -95,3 +95,7 @@
 
 
 .footer2{ height:106px; width:100%; background:#29b9e7;}
+
+/* sequence */
+#sequence {width:1000px;height:auto;}
+#sequence img {float:left;padding-left:92px;height:auto;width:1168px;}
